@@ -12,10 +12,9 @@ navbar:
     - text: "Tools"
       href: tools.html
     - text: "Collections"
-      menu:
-        collections:
-          posts:
-            categories: true
-          Tools:
-            categories: true
+      collections:
+        posts:
+          categories: true
+        Tools:
+          categories: true
 output: distill::distill_article
