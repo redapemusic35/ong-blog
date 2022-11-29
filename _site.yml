@@ -11,6 +11,10 @@ navbar:
       href: about.html
     - text: "Tools"
       href: tools.html
+    - text: "Things"
+      menu:
+        - text: "Stuff"
+          href: Stuff.html
 collections:
   posts:
     categories: true
