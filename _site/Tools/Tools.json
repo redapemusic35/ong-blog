@@ -12,9 +12,9 @@
     "date": "2022-11-29",
     "categories": [],
     "contents": "\n\n\n\nWhat is Audacity?\nHow to get started\nTo use Audacity, you first need to download it onto your personal computer.\nVisit https: //www.audacityteam.org/\nClick the blue “Download Audacity” button and complete the installation process.\nOpen Audacity.\nNeed more help?\nFor the manual, visit https://manual.audacityteam.org/. Links to various tutorials are on this page, including “Editing an Audio File”, “Your First Recording”, and “Mixing Voice with Background Music”.\nFurther questions?\nRequest an appointment: https://www.slu.edu/arts-and-sciences/ong-center/book-appointment.php\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-11-29T09:27:09-06:00",
-    "input_file": {}
+    "preview": "Tools/2022-11-29-audacity/./../../images/audacity.png",
+    "last_modified": "2022-11-29T09:28:43-06:00",
+    "input_file": "audacity.knit.md"
   },
   {
     "path": "Tools/2022-11-29-docanno/",
@@ -29,9 +29,9 @@
     "date": "2022-11-29",
     "categories": [],
     "contents": "\n\n\n\nInstall Doccano, Git, and Docker\nNavigate to https://github.com/doccano/doccano\ninstall git and docker-cli\nfork https://github.com/doccano/doccano\ngit clone your fork of doccano\ncd into cloned project\ncreate .env in root of cloned project with the following contents:\nUpdate Your Environment Settings (.env file in path)\nPlatform settings\nADMIN_USERNAME=admin\nADMIN_PASSWORD=password\nADMIN_EMAIL=admin@example.com\nBlah\nrabbit mq settings\nRABBITMQ_DEFAULT_USER=doccano\nRABBITMQ_DEFAULT_PASS=doccano\nPostgres settings\ndatabase settings\nPOSTGRES_USER=doccano\nPOSTGRES_PASSWORD=doccano\nPOSTGRES_DB=doccano\nDeploy Your App\nCreate Webapp\nrun this command in your terminal docker-compose -f docker/docker-compose.prod.yml –env-file .env up, then access http://127.0.0.1/\nInspect to see working\nDeploy to Host\nthen click “Deploy to Heroku” button. Which will take you to heroku, create free account, go back to git project and click deploy button again\nsite will run after 10 minutes or so\nTo add Users\nhttps://yourwebsite.herokuapp.com/admin/\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-11-29T09:26:27-06:00",
-    "input_file": {}
+    "preview": "Tools/2022-11-29-docanno/./../../images/doccano.png",
+    "last_modified": "2022-11-29T09:28:29-06:00",
+    "input_file": "docanno.knit.md"
   },
   {
     "path": "Tools/2022-11-29-poop/",
