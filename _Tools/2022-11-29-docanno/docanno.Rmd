@@ -2,6 +2,7 @@
 title: "Doccano Public Facing Deployment Tutorial"
 description: |
   Docanno is a piece of open source software that enables crowdsourcing document annotation for machine learning and other useful tasks.
+preview: images/doccano.png
 author:
   - name: Monty
     url: {}
@@ -9,9 +10,9 @@ date: 2022-11-29
 output:
   distill::distill_article:
     self_contained: false
-preview: images/doccano.png
 ---
 
+![]("./../../images/doccano.png")
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
