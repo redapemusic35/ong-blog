@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-11-29-poop/",
+    "title": "Poop",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-11-29",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-11-29T08:32:23-06:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Ong Center",
     "description": "Welcome to our new blog, Ong Center. We hope you enjoy \nreading what we have to say!",
