@@ -11,10 +11,9 @@ navbar:
       href: about.html
     - text: "Tools"
       href: tools.html
-    - text: "Collections"
-      collections:
-        posts:
-          categories: true
-        Tools:
-          categories: true
+collections:
+  posts:
+    categories: true
+  Tools:
+    categories: true
 output: distill::distill_article
