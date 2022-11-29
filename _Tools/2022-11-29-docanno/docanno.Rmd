@@ -12,7 +12,10 @@ output:
     self_contained: false
 ---
 
-![]("./../../images/doccano.png")
+```{r, echo = FALSE}
+knitr::include_graphics(path = "./../../images/doccano.png")
+```
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
