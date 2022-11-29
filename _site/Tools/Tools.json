@@ -12,9 +12,9 @@
     "date": "2022-11-29",
     "categories": [],
     "contents": "\n\n\n\nWhat is Audacity?\nHow to get started\nTo use Audacity, you first need to download it onto your personal computer.\nVisit https: //www.audacityteam.org/\nClick the blue “Download Audacity” button and complete the installation process.\nOpen Audacity.\nNeed more help?\nFor the manual, visit https://manual.audacityteam.org/. Links to various tutorials are on this page, including “Editing an Audio File”, “Your First Recording”, and “Mixing Voice with Background Music”.\nFurther questions?\nRequest an appointment: https://www.slu.edu/arts-and-sciences/ong-center/book-appointment.php\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-11-29T09:28:43-06:00",
-    "input_file": {}
+    "preview": "Tools/2022-11-29-audacity/./../../images/audacity.png",
+    "last_modified": "2022-11-29T09:48:44-06:00",
+    "input_file": "audacity.knit.md"
   },
   {
     "path": "Tools/2022-11-29-docanno/",

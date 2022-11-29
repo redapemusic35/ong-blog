@@ -36,10 +36,10 @@ trackdown::update_file("audacity.Rmd",
 		gpath = "Classroom\ support/Tools/Tools_public/",
 		gfile = "audacity.Rmd",
 		hide_code = TRUE,
-		path_output = "audacity.html"
+		path_output = "audacity.pdf"
 )
 
-pagedown::chrome_print("audacity.html")
+pagedown::chrome_print("audacity.pdf")
 
 ```
 
