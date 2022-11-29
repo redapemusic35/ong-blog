@@ -28,12 +28,12 @@ opts_chunk$set(fig.pos = 'p') # Places figures on their own pages
 opts_chunk$set(out.width = '100%', dpi=300)
 opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, cache = FALSE)
 
-#trackdown::upload_file("audacity.Rmd",
-trackdown::update_file("audacity.Rmd",
+trackdown::upload_file("audacity.Rmd",
+#trackdown::update_file("audacity.Rmd",
 #trackdown::download_file("audacity.Rmd",
 #trackdown::render_file("Audacity",
 		shared_drive = "2022_GAs",
-		gpath = "Classroom\ support/Tools/Tools_public/",
+		gpath = "Classroom\ support/Tools/Public\ Folder/Audacity/",
 		gfile = "audacity.Rmd",
 		hide_code = TRUE,
 		path_output = "audacity.pdf"
